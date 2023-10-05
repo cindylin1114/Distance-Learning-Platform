@@ -1,0 +1,7 @@
+<meta charset="utf-8">
+<form action="BMI.php" method="get">
+<h1>BMI計算</h1>
+身高：<input type="text" name="cm">
+體重：<input type="text" name="kg">
+<input type="submit" value="計算">
+</form>
